@@ -8,8 +8,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 150px;
-    height: auto;
+    width: auto;
+    height: 200px;
 }
 
 img:hover {
